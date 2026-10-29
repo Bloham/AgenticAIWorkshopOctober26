@@ -26,6 +26,17 @@ Open the folder in Godot (Project Manager → Import → pick `project.godot`) a
 
 ---
 
+## Backstitch (bundled)
+
+The repo ships with [Backstitch](https://backstitch.dev), Ink & Switch's real-time version control for Godot. It is already in `addons/backstitch` and enabled, so a **Backstitch** tab appears next to the Inspector when you open the project.
+
+- **Host:** choose `https://alpha.backstitch.dev/` as the server, click **Create a new project**, then **Copy Project ID** and share it.
+- **Everyone else:** same server, paste the Project ID, click **Load Existing Project**.
+
+It is alpha software — keep Git as the real version control, and put nothing confidential in it. `backstitch.cfg` and `.backstitch/` are gitignored; they are per-machine.
+
+---
+
 ## Your job today
 
 1. **Pick a feature** — an enemy or an item. One. Write your name on the board next to it so nobody doubles up.
