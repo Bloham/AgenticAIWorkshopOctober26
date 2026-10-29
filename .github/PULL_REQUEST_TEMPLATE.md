@@ -4,7 +4,7 @@
 
 ## Does it run?
 
-- [ ] The project opens in Godot 4.6
+- [ ] The project opens in Godot 4.7
 - [ ] I pressed F5 and the game plays
 - [ ] I pulled the latest `main` before opening this PR
 

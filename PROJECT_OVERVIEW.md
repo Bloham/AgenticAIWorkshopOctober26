@@ -1,7 +1,7 @@
-# Project Overview — Agentic AI Workshop (Godot 4.6)
+# Project Overview — Agentic AI Workshop (Godot 4.7)
 
 ## Engine & Config
-- **Engine**: Godot 4.6 (Forward Plus renderer, gl_compatibility backend)
+- **Engine**: Godot 4.7 (Forward Plus renderer, gl_compatibility backend)
 - **Resolution**: 1920x1080, viewport stretch mode
 - **Main Scene**: `res://survivors_game.tscn`
 - **Language**: GDScript

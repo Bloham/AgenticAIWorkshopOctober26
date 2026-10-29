@@ -8,7 +8,7 @@ A hands-on game development workshop at **Novia, Jakobstad**. Everyone gets thei
 
 ## What you need
 
-- **Godot 4.6** — [godotengine.org/download](https://godotengine.org/download). Any 4.6.x build works.
+- **Godot 4.7** — [godotengine.org/download](https://godotengine.org/download). Any 4.7.x build works.
 - **Git** or [GitHub Desktop](https://desktop.github.com)
 - An AI coding agent — your workshop account. It opens this folder and edits the game when you describe what you want.
 - **Krita** (installed) or a browser for [Photopea](https://www.photopea.com) and [bfxr](https://www.bfxr.net)

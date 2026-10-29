@@ -1,6 +1,6 @@
 # Agent Instructions
 
-You are working in a **Godot 4.6** 2D top-down survival shooter written in
+You are working in a **Godot 4.7** 2D top-down survival shooter written in
 **GDScript**, used in a two-hour workshop where the people prompting you are
 beginners.
 
