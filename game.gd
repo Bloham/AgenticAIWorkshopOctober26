@@ -43,3 +43,9 @@ func _on_timer_timeout():
 func _on_player_health_depleted():
 	%GameOver.show()
 	get_tree().paused = true
+	%PlayAgain.grab_focus()
+
+
+func _on_play_again_pressed() -> void:
+	get_tree().paused = false
+	get_tree().reload_current_scene()
