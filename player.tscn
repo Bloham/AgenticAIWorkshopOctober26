@@ -13,7 +13,7 @@ size = Vector2(84, 54)
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_a5sny"]
 bg_color = Color(0.623529, 0.866667, 0.317647, 1)
 
-[node name="Player" type="CharacterBody2D" unique_id=1546396198]
+[node name="Player" type="CharacterBody2D" groups=["player"] unique_id=1546396198]
 motion_mode = 1
 script = ExtResource("1_73bic")
 

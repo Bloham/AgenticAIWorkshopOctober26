@@ -2,7 +2,15 @@ extends CharacterBody2D
 
 signal health_depleted
 
+const MAX_HEALTH := 100.0
+
 var health = 100.0
+
+
+## Called by item features (e.g. a health pack). Keeps the health bar in sync.
+func heal(amount: float) -> void:
+	health = min(health + amount, MAX_HEALTH)
+	%HealthBar.value = health
 
 
 func _physics_process(delta):

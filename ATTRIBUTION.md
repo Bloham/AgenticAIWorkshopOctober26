@@ -28,7 +28,8 @@ Licensed MIT, see LICENSE.
 
 Artwork, sound, music and text created by workshop participants belongs to the
 person who made it. It is published in this repository under **CC BY 4.0**,
-credited to the creator in the filename (`art/incoming/player-car-anna.png`)
+credited to the creator in the folder and filename
+(`features/anna-lava-blob/art/lava_blob.png`)
 and, where known, in this file.
 
 If you contributed and want your name, a link or different licence terms
